@@ -1,4 +1,4 @@
-#SwiftMind 小模型训练与推理工程化改造
+# SwiftMind 小模型训练与推理工程化改造
 
 本项目基于 MiniMind，完成从训练复现到推理优化、Benchmark 评测、CLI/API 服务化的一整套工程化改造。
 
