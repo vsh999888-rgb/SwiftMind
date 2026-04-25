@@ -1,0 +1,35 @@
+# Model weights
+out/*.pth
+*.ckpt
+*.bin
+out/
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+
+# Cache and logs
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.log
+
+# Datasets
+data/
+*.jsonl
+*.txt
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# GPU related
+*.cu
+*.cubin
